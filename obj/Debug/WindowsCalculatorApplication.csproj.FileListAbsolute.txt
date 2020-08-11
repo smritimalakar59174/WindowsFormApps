@@ -1,0 +1,13 @@
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\bin\Debug\WindowsCalculatorApplication.exe.config
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\bin\Debug\WindowsCalculatorApplication.exe
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\bin\Debug\WindowsCalculatorApplication.pdb
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\bin\Debug\AssignLib11.dll
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\bin\Debug\AssignLib11.pdb
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.csprojAssemblyReference.cache
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.Form1.resources
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.Properties.Resources.resources
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.csproj.GenerateResource.cache
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.csproj.CopyComplete
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.exe
+E:\DotNet\ConsoleFirstApps\WindowsCalculatorApplication\obj\Debug\WindowsCalculatorApplication.pdb
