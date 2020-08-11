@@ -1,0 +1,1 @@
+add reference of AssignLib11.dll file to WindowsCalculatorApplication for GAC.
